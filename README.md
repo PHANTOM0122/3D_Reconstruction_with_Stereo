@@ -1,4 +1,4 @@
-# 3D_Reconstruction
+# 3D_Reconstruction_with_Stereo
 
 ## Requirement
 - python 3.x

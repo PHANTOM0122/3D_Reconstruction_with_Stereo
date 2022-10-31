@@ -31,7 +31,7 @@ With SIFT algorithm between two images, obtaining correspondence pairs is possib
 <img src="https://github.com/PHANTOM0122/3D_Reconstruction_with_SFM/blob/main/Reconstruction_with_Features/Matched_feature_result.png" width="350" height="170"><br>
 
 * **Sparse points Clouds**<br>
-<img src ="https://github.com/PHANTOM0122/3D_Reconstruction_with_SFM/blob/main/Reconstruction_with_Features/points_result.png" width="500" height="500"><br>
+<img src ="https://github.com/PHANTOM0122/3D_Reconstruction_with_SFM/blob/main/Reconstruction_with_Features/points_result.png" width="500" height="300"><br>
 
 ### Backprojection algorithm
 ```python

@@ -1,4 +1,11 @@
 # 3D_Reconstruction
+
+## Requirement
+- python 3.x
+- openCV 3.x
+- open3D
+- Numpy
+
 ## Common Step in both methods
 1) **Image calibration**: Calibrating with checkerboard method, get intrinsic parameter of camera.
 2) **3D Visualization**: Visualize 3D using open3d with point cloud from depth map and RGB images.
@@ -25,11 +32,6 @@ With SIFT algorithm between two images, obtaining correspondence pairs is possib
 
 * **Sparse points Clouds**<br>
 <img src ="https://github.com/PHANTOM0122/3D_Reconstruction_with_SFM/blob/main/Reconstruction_with_Features/points_result.png" width="500" height="500"><br>
-
-## Requirement
-- python 3.x
-- openCV 3.x
-- open3D
 
 ### Backprojection algorithm
 ```python
